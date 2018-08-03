@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "babel-preset-env": "^1.7.0",
+    "koa": "^2.5.2",
     "koa2": "^2.0.0-alpha.7"
   },
   "devDependencies": {
